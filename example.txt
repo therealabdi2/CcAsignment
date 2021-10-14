@@ -1,0 +1,20 @@
+#include <iostream.h> // This is a header file (this comment will be removed
+    #include <math.h>
+
+        int main(void) //this single comment will also be removed
+{
+        int id, id1=0;
+       int b;
+/* These are multi line comments
+which will be removed
+
+*/
+        id = 10;
+      id = id1 + 1;
+    if(id<=10)
+     {
+                 b=id++;
+     }
+   				cout<<id;
+ return 0; //this single line comment will  be removed
+} // the extra spaces will be removed

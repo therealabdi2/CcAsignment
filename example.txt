@@ -16,5 +16,5 @@ which will be removed
                  b=id++;
      }
    				cout<<id;
- return 0; //this single line comment will  be removed
+ return 0; //this single line comment will  be removed as well
 } // the extra spaces will be removed
